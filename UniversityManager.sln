@@ -1,20 +1,20 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityManager", "UniversityManager\UniversityManager.csproj", "{320E5021-2B8D-47D6-A0B7-8892B73F574B}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityManager", "UniversityManager.csproj", "{3B3AF686-2412-4BD8-AFEA-2FC432C3FEAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{320E5021-2B8D-47D6-A0B7-8892B73F574B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{320E5021-2B8D-47D6-A0B7-8892B73F574B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{320E5021-2B8D-47D6-A0B7-8892B73F574B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{320E5021-2B8D-47D6-A0B7-8892B73F574B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3AF686-2412-4BD8-AFEA-2FC432C3FEAC}.Debug|x86.ActiveCfg = Debug|x86
+		{3B3AF686-2412-4BD8-AFEA-2FC432C3FEAC}.Debug|x86.Build.0 = Debug|x86
+		{3B3AF686-2412-4BD8-AFEA-2FC432C3FEAC}.Release|x86.ActiveCfg = Release|x86
+		{3B3AF686-2412-4BD8-AFEA-2FC432C3FEAC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = UniversityManager\UniversityManager.csproj
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
